@@ -1,0 +1,14 @@
+echo "# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PHP Composer
+vendor/
+
+# Docker
+*.log
+.env" > .gitignore
